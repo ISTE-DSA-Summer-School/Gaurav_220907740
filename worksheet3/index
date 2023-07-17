@@ -1,0 +1,15 @@
+Worksheet 3
+1. Given two integers A and B. The task is to swap two numbers by interchanging the values of A
+and B. Find implementations of the following two functions:
+void swap(int *A, int *B)
+void swap(int &A, int &B)
+2. Write a program to swap 2 numbers without using a 3rd variable.
+3. Using pointers, Write a program to find the greatest among three numbers.
+4. Write a program to reverse the digits of a number using pointers.
+5. Write a program to find the factorial of a number using pointers.
+6. Write a C++ program to multiply two matrices and print the result using pointers.
+7. Remove duplicates from a sorted array using pointers.Given a sorted array, write a function to
+remove duplicates in-place using pointers. The function should return the new length of the array.
+8. Find the maximum sum subarray in an array using pointers.Given an array of integers, write a
+function to find the contiguous subarray with the largest sum using pointers. Return the sum of the
+subarray.
